@@ -8,10 +8,10 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "JetBrains Mono:size=12" };
 static const char dmenufont[]       = "JetBrains Mono:size=12";
-static const char col_gray1[]       = "#1b1b1b";
-static const char col_gray2[]       = "#1b1b1b";
+static const char col_gray1[]       = "#222222";
+static const char col_gray2[]       = "#222222";
 static const char col_gray3[]       = "#fff8e7";
-static const char col_gray4[]       = "#1b1b1b";
+static const char col_gray4[]       = "#222222";
 static const char col_cyan[]        = "#fff8e7";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
